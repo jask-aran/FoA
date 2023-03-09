@@ -7,8 +7,7 @@ int main(void) {
         if (c == '\n') {
             nl++;
         }
-        ++char_count;
-
+        char_count++;
     }
     printf("Lines: %6d", nl);
     printf("\nChars: %6d\n", char_count);
