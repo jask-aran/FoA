@@ -1,12 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    int x = 0, y = 0;
-    if (y < x) {
-        printf("y is smaller");
-    } else if (y = x) {
-        printf("x and y are equal");
-    } else {
-        printf("y is greater");
-    }
+ int x = 1 && - 2 * - 3 - 4 < 5 && 6 <= 7 >= 8 != 9 / 10 > ! 11;
+ printf("%lf\n", (double) x);
 }
