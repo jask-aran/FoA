@@ -47,3 +47,5 @@ int
 amicable_pair(int n1, int n2) {
 	return (sumfactors(n1)==n2 && sumfactors(n2)==n1 && n1!=n2);
 }
+
+// hello world
